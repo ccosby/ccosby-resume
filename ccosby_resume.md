@@ -39,6 +39,7 @@ make things work together that were never designed to.
   * Openboot
   * ZFS
 * Oracle RDBMS
+* Informix Online Server
 
 ===
 

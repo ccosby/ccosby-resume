@@ -89,7 +89,7 @@ important things to know
   * Nexus 1000v
   * MDS
   * IOS
-    * static routing 
+    * static routing
     * dynamic routing protocols (OSPF, EIGRP, BGP)
     * VLANs - to include access, dot1q trunks, etherchannel, spanning tree, et al
     * VRF
