@@ -23,6 +23,7 @@ make things work together that were never designed to.
 * Cisco
   * Nexus 5000/7000
   * Nexus 1000v
+  * UCS Manager
 * VMware
   * ESXi (through 5.5)
   * vSphere (through 5.5)
@@ -63,6 +64,7 @@ project was moved offshore to reduce OpEx.
 * Sonar
 * Derby
 * Groovy
+* Veritas VxFS
 
 ===
 
