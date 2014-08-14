@@ -2,11 +2,20 @@
 ##### chris@microcozm.net
 ##### 678-805-7481
 
-===
+This résumé probably doesn't read the way in which you're accustomed. If you
+read from the bottom up, it is an autobiographical account of my career. The
+skills sections that appear under each blurb are the highlights of what I
+picked up during that particular assignment, not the sum total of what I know. 
 
-## 2012/10 - Current
-### Cisco Systems, Inc.
-##### Software Engineer, DNCS Platform
+In short, I'm a problem solver. I like to take on new things and master them.
+I don't limit myself to a single technology, or to a single way of thinking.
+I'll find out what's broken and fix it, or I'll help you find a solution to a
+problem you can't even quite define.
+
+<hr/>
+
+## W2 History
+### 10/2012 - Current / *Cisco Systems, Inc.* / Software Engineer, DNCS Platform
 
 This position has defined much of my career. The "Platform" responsibility is
 more systems integration and automation than software engineer. I'm
@@ -41,11 +50,7 @@ make things work together that were never designed to.
 * Oracle RDBMS
 * Informix Online Server
 
-===
-
-## 2011/02 - 2012/10
-### Cisco Systems, Inc.
-##### DevOps, Femtocell
+### 02/2011 - 10/2012 / *Cisco Systems, Inc.* / DevOps, Femtocell
 
 I was recruited out of DNCS Platform to help automate the development
 infrastructure for the Femtocell project. This involved installation and
@@ -67,20 +72,12 @@ project was moved offshore to reduce OpEx.
 * Groovy
 * Veritas VxFS
 
-===
-
-## 2005/03 - 2011/02
-### Scientific-Atlanta, Inc. / Cisco Systems, Inc.
-##### Software Engineer, DNCS Platform
+### 03/2005 - 02/2011 / *Scientific-Atlanta, a Cisco Company* / Software Engineer, DNCS Platform
 
 See 2012-10 - Current section above. Same job, just split around a brief foray
 into the world of cell phone micro-towers.
 
-===
-
-## 2000/07 - 2005/03
-### Scientific-Atlanta, Inc.
-##### Network Engineer, SciCare Software Services
+### 07/2000 - 03/2005 / *Scientific-Atlanta, Inc.* / Network Engineer, SciCare Software Services
 
 This position started as a "Level 3" support engineer. Duties were initially
 limited to resolving problems with our application stack running on Solaris.
@@ -93,11 +90,7 @@ pure cost center.
 * PHP
 * Cisco IOS
 
-===
-
-## 1999/06 - 2000/07
-### Associated Distributors dba West Building Materials
-##### Developer / IT Specialist
+### 06/1999 - 07/2000 / *West Building Materials* / Developer, IT Specialist
 
 West Building Materials was a 100 year old building materials store that
 didn't survive the market incursion by Home Depot and Lowe's. My
@@ -107,7 +100,7 @@ custom reports and applications (Progress 4GL again) that replaced the
 outgoing POS system. This job also kickstarted my desire to automate
 everything. Executing the rollout of the stores was started by another
 employee who didn't take the time to make all of the servers an easily
-maintainable homogenous environment - every one was a little different. I
+maintainable homogenous environment — every one was a little different. I
 fixed that with a couple of carefully crafted backup tapes and good old
 Lone-Tar.
 
@@ -116,11 +109,7 @@ Lone-Tar.
 * Token Ring Networking
 * IBM OS/400 and AS/400
 
-===
-
-## 1996/05 - 1999/05
-### Health Data, Inc.
-##### Lead Developer
+### 05/1996 - 05/1999 / *Health Data, Inc.* / Lead Developer
 
 Health Data is where I cut my technical teeth. This was a data-entry job that
 turned into a software engineering role and escalated from there. I started
@@ -129,7 +118,7 @@ while learning the language. From there I moved into developing drug use
 review software and eventually a DICOM and HL7 compliant medical imaging
 application suite. My small team of 2 developers built applications in
 Progress 4GL and Visual Basic to provide a workstation to scan X-ray films,
-recieve a feed from the CT, MRI, and ultrasound machines and display them in a
+receive a feed from the CT, MRI, and ultrasound machines and display them in a
 Windows application that was located both inside the hospital and at the home
 of the radiologist on call. I also rebuilt and managed the building LAN, built
 and maintained all of the Windows workstations, the SCO OpenServer 5 Progress
@@ -145,3 +134,30 @@ database servers, and the Linux mail/web/DNS gateway.
 * SCO OpenServer 5
 * Linux (Slackware, RedHat, Debian)
 * Basics of IP Networking
+
+<hr/>
+
+## 1099 History
+### 06/1999 - Current / *Krengel Technology*
+
+I had the excellent fortune while at West Building Materials to meet an
+enterprising young consultant who would help shape my career. Quentin Krengel
+helped me develop a real passion for digging deeply into a problem and
+creating a solution. Since that meeting, I have consulted on many
+projects with him and his company.
+
+* Built websites on hosted hardware before The Cloud was new.
+* Migrated those websites to AWS EC2 after The Cloud came to be.
+* Helped a customer get their indoor air quality monitoring device off the
+  ground. Learned a lot about uCLinux&trade; and embedded devices. Wrote some
+  PHP and Lua and a tiny web templating engine in awk.
+* Many more small projects, and hopefully many more to come.
+
+<hr/>
+
+## Education
+### Auburn University -- BSBA, Management Information Systems (1999)
+
+<hr/>
+
+###### References are available upon request
